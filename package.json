@@ -1,0 +1,15 @@
+{
+  "name": "car-object-model",
+  "version": "1.0.0",
+  "description": "A car object model",
+  "main": "../app/index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "OOP",
+    "Car"
+  ],
+  "author": "Lawal Lanre",
+  "license": "ISC"
+}
