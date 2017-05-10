@@ -31,7 +31,7 @@ class Car {
 				this.speed = '77 km/h';
 				break;
 		}
-		return new Car(this);
+		return new Car() ;
 	}
 }
 
